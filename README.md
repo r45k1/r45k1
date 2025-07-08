@@ -14,6 +14,13 @@ Full Stack Web&App Developer
 | FajneIkonki | icons, svg, css, webfont, font-icons, open-source, frontend | [Reposytory](https://github.com/r45k1/FajneIkonki) |
 
 ---
+<img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_php.svg" width="48" height="48" alt="FajneIkonki Icon"> <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_dev.svg" width="48" height="48" alt="FajneIkonki Icon"> <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_git.svg" width="48" height="48" alt="FajneIkonki Icon"> <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_kt.svg" width="48" height="48" alt="FajneIkonki Icon">
+I used my icon from the open-source project [FajneIkonki](https://github.com/r45k1/FajneIkonki)
+
+
+
+---
+
 
  📇  I presented a working web and mobile application that can be tested and reviewed. If you'd like to see the code, feel free to request it.
 
