@@ -32,6 +32,7 @@ I used my icon from the open-source project [FajneIkonki](https://github.com/r45
 
 | Project             | Description                   | Demo / Presentation                  |
 |---------------------|-------------------------------|--------------------------------------|
+| Android App | Own App Android/Kotlin Compose SS&Code | [Show me](https://github.com/r45k1/Kotlin-Own-Player-Compose) |
 | CyfryzacjaTransportu | Personal project PHP, SQL, Bootstrap5 | [Show me](https://github.com/r45k1/CyfryzacjaTransportu) |
 | App Mobile -  RapReview PODCAST  | Kotlin/Android, REST API PHP, firebase| [Show me](https://github.com/r45k1/App-Rapreview)   |
 | Plugin CMS Kalkulator  | Plugin Custom WordPress, calculate UK Tax from Crypto| [Show me](https://github.com/r45k1/PHP-Crypto-Calc)   |
